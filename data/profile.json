@@ -8,10 +8,6 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Terraform",
-        "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/terraform.png"
-      },
-      {
         "name": "AWS",
         "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/aws.png"
       },
@@ -26,10 +22,6 @@
       {
         "name": "Docker",
         "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/docker.png"
-      },
-      {
-        "name": "Ansible",
-        "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/ansible.png"
       }
     ],
     "softSkills": [
