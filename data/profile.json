@@ -8,20 +8,28 @@
   "skills": {
     "hardSkills": [
       {
+        "name": "Terraform",
+        "logo": "https://raw.githubusercontent.com/aldairribeiro/js-developer-portfolio/main/data/imgs/terraform.png"
+      },
+      {
         "name": "AWS",
-        "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/aws.png"
+        "logo": "https://raw.githubusercontent.com/aldairribeiro/js-developer-portfolio/main/data/imgs/aws.png"
       },
       {
         "name": "Python",
-        "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/aldairribeiro/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
         "name": "kubernetes",
-        "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/kubernetes.png"
+        "logo": "https://raw.githubusercontent.com/aldairribeiro/js-developer-portfolio/main/data/imgs/kubernerts.png"
       },
       {
         "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/aldairribeiro/Portifolio/main/data/imgs/docker.png"
+        "logo": "https://raw.githubusercontent.com/aldairribeiro/js-developer-portfolio/main/data/imgs/docker.png"
+      },
+      {
+        "name": "Ansible",
+        "logo": "https://raw.githubusercontent.com/aldairribeiro/js-developer-portfolio/main/data/imgs/ansible.png"
       }
     ],
     "softSkills": [
